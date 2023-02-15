@@ -1504,12 +1504,12 @@
     "@linaria/utils" "^4.3.1"
     "@rollup/pluginutils" "^4.1.0"
 
-"@linaria/webpack5-loader@4.1.11":
-  version "4.1.11"
-  resolved "https://registry.yarnpkg.com/@linaria/webpack5-loader/-/webpack5-loader-4.1.11.tgz#ed25f831b76a6a5036d331a3451ade2218b16e18"
-  integrity sha512-ixK0Nod+2jo8mOAYOLfLspxPoFtrK4p4TqGaIqKXYt3UORYQdVyPf7ABbgZhUHy6lZNgSnSv8e7HVgDCraZHZw==
+"@linaria/webpack5-loader@4.1.13":
+  version "4.1.13"
+  resolved "https://registry.yarnpkg.com/@linaria/webpack5-loader/-/webpack5-loader-4.1.13.tgz#e0df2f579858453b97ff2aa4c387db3098bf5d04"
+  integrity sha512-8r+pEsRN/GnMmnvw3r3zji27p8vC6dcqpiyhWyOugSMrwzq24mUZiIGhWiVq78oEE3wPFqV/u3HHM9m3pxUlfg==
   dependencies:
-    "@linaria/babel-preset" "^4.3.3"
+    "@linaria/babel-preset" "^4.4.1"
     "@linaria/logger" "^4.0.0"
     enhanced-resolve "^5.3.1"
     mkdirp "^0.5.1"
