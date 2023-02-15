@@ -1438,16 +1438,7 @@
     babel-plugin-transform-react-remove-prop-types "^0.4.24"
     ts-invariant "^0.10.3"
 
-"@linaria/tags@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/@linaria/tags/-/tags-4.3.0.tgz#629062ad32f4ad84b4b5ba82297bdfc031754e47"
-  integrity sha512-ZFFZ+iuWg/3fvVeDVmnJVn0TSJYFlgA7SbZqN/Zx1FX/7EpM03lB1rprTV7svJyKKG46uqTXY7kdKCTwczmL1w==
-  dependencies:
-    "@babel/generator" "^7.20.4"
-    "@linaria/logger" "^4.0.0"
-    "@linaria/utils" "^4.3.0"
-
-"@linaria/tags@^4.3.0", "@linaria/tags@^4.3.1":
+"@linaria/tags@4.3.1", "@linaria/tags@^4.3.0", "@linaria/tags@^4.3.1":
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/@linaria/tags/-/tags-4.3.1.tgz#fb4cfce6860a2594efcbd1f551c69061112dd85d"
   integrity sha512-H1CgDYnZg8+TBiezoRxo6uBYWDzAqV/P+siFlbPGWgykzfqyO8p5XL/awk41sAdR07+2JhpXUowNUOEo7LJTYg==
