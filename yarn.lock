@@ -1438,23 +1438,14 @@
     babel-plugin-transform-react-remove-prop-types "^0.4.24"
     ts-invariant "^0.10.3"
 
-"@linaria/tags@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/@linaria/tags/-/tags-4.3.0.tgz#629062ad32f4ad84b4b5ba82297bdfc031754e47"
-  integrity sha512-ZFFZ+iuWg/3fvVeDVmnJVn0TSJYFlgA7SbZqN/Zx1FX/7EpM03lB1rprTV7svJyKKG46uqTXY7kdKCTwczmL1w==
+"@linaria/tags@4.3.4", "@linaria/tags@^4.3.0", "@linaria/tags@^4.3.1":
+  version "4.3.4"
+  resolved "https://registry.yarnpkg.com/@linaria/tags/-/tags-4.3.4.tgz#3c98108e4b48b8413662b4c62c2b2abdebacaca4"
+  integrity sha512-W8zaLKtC4YFCwkZ9DMu2enCiD/zGyYmFSTzEvJP7ZycdftMizoOrWNOyF9kITyjGdq+jZvAXJz0BZDT6axgIRg==
   dependencies:
     "@babel/generator" "^7.20.4"
     "@linaria/logger" "^4.0.0"
-    "@linaria/utils" "^4.3.0"
-
-"@linaria/tags@^4.3.0", "@linaria/tags@^4.3.1":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@linaria/tags/-/tags-4.3.1.tgz#fb4cfce6860a2594efcbd1f551c69061112dd85d"
-  integrity sha512-H1CgDYnZg8+TBiezoRxo6uBYWDzAqV/P+siFlbPGWgykzfqyO8p5XL/awk41sAdR07+2JhpXUowNUOEo7LJTYg==
-  dependencies:
-    "@babel/generator" "^7.20.4"
-    "@linaria/logger" "^4.0.0"
-    "@linaria/utils" "^4.3.1"
+    "@linaria/utils" "^4.3.3"
 
 "@linaria/utils@4.3.0":
   version "4.3.0"
@@ -1470,10 +1461,10 @@
     "@linaria/logger" "^4.0.0"
     babel-merge "^3.0.0"
 
-"@linaria/utils@^4.3.0", "@linaria/utils@^4.3.1":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@linaria/utils/-/utils-4.3.1.tgz#7e4a43b4b88c21d9954c6236f3fca258fac80f2b"
-  integrity sha512-+Rx07/gpqUL8v9rcUs4kt8JS6UkcJn829iofNAf3jVcizl1FyOOD0wRTJPq4Rh5l3AsbUqFCYgoCkHHMAMgK5Q==
+"@linaria/utils@^4.3.0", "@linaria/utils@^4.3.1", "@linaria/utils@^4.3.3":
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/@linaria/utils/-/utils-4.3.3.tgz#9f66ae41187e8a2f2cc3471b44935128ebd1dab3"
+  integrity sha512-xSe/tod9A44aIMbtds9fWLNe2TT080lLdRSaoqX+UHsBWqClkrw5cXEt3lm8Vr4hZiXT2r/1AldjuHb9YbUlMg==
   dependencies:
     "@babel/core" "^7.20.2"
     "@babel/plugin-proposal-export-namespace-from" "^7.18.9"
